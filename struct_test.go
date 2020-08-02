@@ -23,7 +23,7 @@ import (
 
 	. "github.com/smartystreets/goconvey/convey"
 
-	"ini"
+	"gopkg.in/ini.v1"
 )
 
 type testNested struct {
